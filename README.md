@@ -1,6 +1,6 @@
 # guia-tv-brasil
 
-Guia de tv aberta e a cabo do Brasil
+Guia de tv aberta e a cabo do Brasil em python.
 
 > Necessário instalar o pacote [natsort](https://github.com/SethMMorton/natsort)
 

@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Script to see brazilian tv channels guide
 
 # needs install natsort package
 from natsort import natsorted
